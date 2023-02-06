@@ -1,7 +1,7 @@
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
 console.log("here we go again");
 
-// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
-import { MDCRipple } from 'mdc.ripple';
+const buttonRipple = new mdc.ripple.MDCRipple(document.querySelector('.mdc-button'));
 
 export const name = "square";
 
