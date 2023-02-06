@@ -1,7 +1,7 @@
 console.log("here we go again");
 
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
-import { MDCRipple } from '@material/ripple';
+// import { MDCRipple } from '@material/ripple';
 
 export const name = "square";
 
